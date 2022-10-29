@@ -1,0 +1,4 @@
+Merhaba
+Nasilsin?
+Iyi misin?
+quit
