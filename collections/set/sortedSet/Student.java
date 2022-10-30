@@ -1,4 +1,4 @@
-package collections.sortedSet;
+package collections.set.sortedSet;
 
 public class Student implements Comparable<Student> {
     
